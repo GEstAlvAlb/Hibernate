@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.mysql.cj.Query"/>
+<fullyQualifiedTypeName name="org.hibernate.query.Query"/>
+<fullyQualifiedTypeName name="com.mysql.cj.Session.SessionEventListener"/>
+<fullyQualifiedTypeName name="alberto.hibernate.HibernateUtil"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.mysql.cj.xdevapi.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="javax.security.auth.login.Configuration"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+<fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistry"/>
+<fullyQualifiedTypeName name="org.hibernate.boot.registry.internal.StandardServiceRegistryImpl"/>
+<fullyQualifiedTypeName name="org.hibernate.boot.registry.StandardServiceRegistryBuilder"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+<fullyQualifiedTypeName name="javax.swing.event.ListSelectionListener"/>
+<fullyQualifiedTypeName name="java.awt.event.FocusListener"/>
+<fullyQualifiedTypeName name="java.awt.event.KeyListener"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Vista"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Modelo"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Objetos.Autor"/>
+<fullyQualifiedTypeName name="org.hibernate.boot.spi.AdditionalJaxbMappingProducer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.net.JarURLConnection"/>
+<fullyQualifiedTypeName name="net.bytebuddy.implementation.bytecode.assign.primitive.PrimitiveTypeAwareAssigner"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Controlador.Accion"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="Componentes.PanelJuegos"/>
+<fullyQualifiedTypeName name="Componentes.PanelAutor"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Objetos.Juego"/>
+<fullyQualifiedTypeName name="alberto.hibernate.Util"/>
+<fullyQualifiedTypeName name="Componentes.JEstado"/>
+</qualifiedTypeNameHistroy>

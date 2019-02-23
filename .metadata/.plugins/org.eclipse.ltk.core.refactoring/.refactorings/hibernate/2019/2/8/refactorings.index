@@ -1,2 +1,14 @@
 1550922966872	Delete element
 1550923102129	Rename type 'App'
+1550942755093	Delete element
+1550943870945	Rename field 'cbArmas'
+1550943880979	Rename field 'lArmas'
+1550943909124	Rename local variable 'armas'
+1550945022825	Rename type 'PanelPersonajes'
+1550945083833	Rename field 'panelAnadirArma'
+1550945305754	Rename local variable 'personaje'
+1550945321879	Rename local variable 'personaje'
+1550948997099	Rename field 'mPersonajes'
+1550949010841	Rename field 'miPersonajes'
+1550949022731	Rename field 'miArmas'
+1550949744493	Delete element

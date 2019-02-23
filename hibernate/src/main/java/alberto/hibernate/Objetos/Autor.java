@@ -18,6 +18,8 @@ public class Autor {
 	int id;
 	@Column(name="nombre")
 	String nombre;
+	@Column(name="Especialidad")
+	String especialidad;
 	
 	List <Juego> juegos;
 	@ManyToMany(cascade=CascadeType.DETACH,mappedBy="autor")
@@ -38,6 +40,16 @@ public class Autor {
 	}
 	public void setJuegos(List<Juego> juegos) {
 		this.juegos = juegos;
+	}
+
+
+	public String getEspecialidad() {
+		return especialidad;
+	}
+
+
+	public void setEspecialidad(String especialidad) {
+		this.especialidad = especialidad;
 	}
 	
 	
