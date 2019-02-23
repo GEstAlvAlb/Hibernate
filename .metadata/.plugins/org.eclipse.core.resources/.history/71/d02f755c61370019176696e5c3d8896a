@@ -1,0 +1,5 @@
+package alberto.hibernate.Objetos;
+
+public class Autor {
+
+}

@@ -1,0 +1,19 @@
+package alberto.hibernate.Objetos;
+
+import java.util.List;
+
+
+@Table(name="autor")
+
+public class Autor {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="id")
+	int id;
+	@Column(name="nombre")
+	String nombre;
+	
+	List <Juego> juegos;
+	@ManyToMany(cascade=CascadeType.DETACH,mappedBy="autor")
+	public List<Juego>getJuegos(){return juegos;}
+}

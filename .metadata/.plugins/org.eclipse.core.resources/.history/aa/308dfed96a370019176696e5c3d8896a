@@ -1,0 +1,13 @@
+package alberto.hibernate;
+
+/**
+ * Hello world!
+ *
+ */
+public class Modelo 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
