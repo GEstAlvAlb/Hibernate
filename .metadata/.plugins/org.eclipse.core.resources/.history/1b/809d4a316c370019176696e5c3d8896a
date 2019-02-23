@@ -2,10 +2,7 @@ package alberto.hibernate;
 
 import org.hibernate.Session;
 
-import com.mysql.cj.xdevapi.SessionFactory;
-
 public class HibernateUtil {
-	private static SessionFactory sessionFactory;
 
 	public static void builSessionFactory() {
 		// TODO Auto-generated method stub
